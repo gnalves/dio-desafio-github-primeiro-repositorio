@@ -9,5 +9,5 @@ do Bootcamp (Santander Fullstack Developer).
 Sintaxe basica da estrutura de arquivos Markdown  
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-Repositório do Dev "CodeGui utilizado como referencia para a estrutura"
+Repositório do Dev "CodeGui" utilizado como referencia para a estrutura"
 [Referencia de Repositório CodeGui] (https://github.com/CodeGui01/Dio-Full-Stack-Developer)
