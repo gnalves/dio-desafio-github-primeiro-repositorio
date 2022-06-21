@@ -1,8 +1,8 @@
-# ADICIONAR ARQUIVOS AO DIRETÓRIO
+## ADICIONAR ARQUIVOS AO DIRETÓRIO
 
 Comando: git add *
 
 
-# FAZENDO COMMIT
+## FAZENDO COMMIT
 
 Comando: git commit -m "Comentário sobre o commit"
