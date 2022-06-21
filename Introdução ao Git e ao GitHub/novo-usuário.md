@@ -1,11 +1,11 @@
-# USANDO O GIT PELA PRIMEIRA VEZ
+# Utilizando o Git pela Primeira Vez
 Ao primeiro acesso no GIT, serão solicitadas algumas informações para indicar que você é o autor do repositório:
 
 Username: (Nome de Usuário)
 
 Mail Address: (Endereço de e-mail)
 
-## CONFIGURANDO O GIT pela primeira vez
+# Configurção Inicial do GIT.
 
 Fornecer E-mail: git config --global user.email "e-mail"
 Fornecer Username: git config --global user.name "nome de usuário"
