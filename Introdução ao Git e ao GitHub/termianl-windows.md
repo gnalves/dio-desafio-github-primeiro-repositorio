@@ -1,2 +1,15 @@
-Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+# COMANDOS BÁSICOS DO PROMPT DE COMANDO DO WINDOWS
+
+## COMANDOS
+
+ - dir: Acessar o diretório
+ - cd: Alterar diretório
+ - /: Especificar o caminho
+ - cd.. : Voltar
+ - TAB: Completar o resto da frase (comando) com sugestões do Windows
+ - del: Deletar arquivos
+ - cls: Limpar a tela
+ - mkdir: Criar diretório
+ - rmdir: Remover diretório
+ - echo: Printar na tela o que você escreveu
+ - echo > frase.txt: Criar um arquivo.txt
