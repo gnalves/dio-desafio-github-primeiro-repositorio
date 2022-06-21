@@ -5,7 +5,7 @@ Username: (Nome de Usuário)
 
 Mail Address: (Endereço de e-mail)
 
-# Configurção Inicial do GIT.
+# Configurção Inicial do GIT
 
 Fornecer E-mail: git config --global user.email "e-mail"
 Fornecer Username: git config --global user.name "nome de usuário"
