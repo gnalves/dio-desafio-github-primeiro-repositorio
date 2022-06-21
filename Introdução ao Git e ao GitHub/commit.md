@@ -1,2 +1,8 @@
-Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+# ADICIONAR ARQUIVOS AO DIRETÓRIO
+
+Comando: git add *
+
+
+# FAZENDO COMMIT
+
+Comando: git commit -m "Comentário sobre o commit"
